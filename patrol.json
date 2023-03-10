@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "63c7627892e81f6f0a7d15bd"
+  },
+  "eventId": "63c7428fc4423a84a9695dbd",
+  "dateTime": "2023-01-18T03:07:34.715Z",
+  "status": "END",
+  "notes": "Test ",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "63c7627a9c768f7ceed863a9"
+  },
+  "eventId": "63c7428fc4423a84a9695dbd",
+  "dateTime": "2023-01-18T03:07:37.309Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "63ffd179f60203c6d58a7625"
+  },
+  "eventId": "63c76351b170580aec76b0a4",
+  "dateTime": "2023-03-01T22:28:07.101Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "63ffd29fd143f976c5a16bd5"
+  },
+  "eventId": "63c76351b170580aec76b0a4",
+  "dateTime": "2023-03-01T22:33:00.630Z",
+  "status": "END",
+  "notes": "Test 1",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "63ffd2a37ad81a2ac2b4c175"
+  },
+  "eventId": "63c76351b170580aec76b0a4",
+  "dateTime": "2023-03-01T22:33:04.786Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "63ffd2b37ad81a2ac2b4c176"
+  },
+  "eventId": "63c76351b170580aec76b0a4",
+  "dateTime": "2023-03-01T22:33:21.414Z",
+  "status": "END",
+  "notes": "Test 1 - ext",
+  "type": "External"
+},{
+  "_id": {
+    "$oid": "63ffd2fd4b89414d37f7222f"
+  },
+  "eventId": "63c76351b170580aec76b0a4",
+  "dateTime": "2023-03-01T22:34:35.541Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "63ffd30b12479af644cf8b76"
+  },
+  "eventId": "63c76351b170580aec76b0a4",
+  "dateTime": "2023-03-01T22:34:49.090Z",
+  "status": "END",
+  "notes": "Test 1 - CP",
+  "type": "Carpark"
+},{
+  "_id": {
+    "$oid": "63ffd4153aaf59c295bdcfb2"
+  },
+  "eventId": null,
+  "dateTime": "2023-03-01T22:39:12.124Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "63ffd42295cfd2ccfcef8b5e"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-01T22:39:23.676Z",
+  "status": "END",
+  "notes": "Test 2 - int",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "63ffd4243aaf59c295bdcfb3"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-01T22:39:25.589Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "63ffd43bcf7ff32f77a23356"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-01T22:39:44.394Z",
+  "status": "END",
+  "notes": "Test 2 ext",
+  "type": "External"
+},{
+  "_id": {
+    "$oid": "63ffd44e7290951e1b19e96e"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-01T22:40:01.190Z",
+  "status": "END",
+  "notes": "Test 2 CP",
+  "type": "Carpark"
+},{
+  "_id": {
+    "$oid": "64000cef5e029913b5a0aad3"
+  },
+  "eventId": "64000ce7ce20c435ace24d80",
+  "dateTime": "2023-03-02T02:41:48.219Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "64000d069d9fcbab1ffce551"
+  },
+  "eventId": "64000ce7ce20c435ace24d80",
+  "dateTime": "2023-03-02T02:42:11.373Z",
+  "status": "END",
+  "notes": "Test int\n",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "64000d0b69a1cb38a4a1d6e8"
+  },
+  "eventId": "64000ce7ce20c435ace24d80",
+  "dateTime": "2023-03-02T02:42:16.586Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "64000d189d9fcbab1ffce552"
+  },
+  "eventId": "64000ce7ce20c435ace24d80",
+  "dateTime": "2023-03-02T02:42:29.312Z",
+  "status": "END",
+  "notes": "Test ext",
+  "type": "External"
+},{
+  "_id": {
+    "$oid": "64000d1a69a1cb38a4a1d6e9"
+  },
+  "eventId": "64000ce7ce20c435ace24d80",
+  "dateTime": "2023-03-02T02:42:31.390Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "64000d2654d6fcca20225604"
+  },
+  "eventId": "64000ce7ce20c435ace24d80",
+  "dateTime": "2023-03-02T02:42:43.975Z",
+  "status": "END",
+  "notes": "Test CP",
+  "type": "Carpark"
+},{
+  "_id": {
+    "$oid": "64000f6b425676d234d666ce"
+  },
+  "eventId": null,
+  "dateTime": "2023-03-02T02:52:22.697Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "64000f7d425676d234d666cf"
+  },
+  "eventId": "64000f6bdbe558b277020869",
+  "dateTime": "2023-03-02T02:52:32.811Z",
+  "status": "END",
+  "notes": "Int",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "64000f7f425676d234d666d0"
+  },
+  "eventId": "64000f6bdbe558b277020869",
+  "dateTime": "2023-03-02T02:52:33.981Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "64000f8369a1cb38a4a1d6ec"
+  },
+  "eventId": "64000f6bdbe558b277020869",
+  "dateTime": "2023-03-02T02:52:42.224Z",
+  "status": "END",
+  "notes": "Ext",
+  "type": "External"
+},{
+  "_id": {
+    "$oid": "640020fa69dd5fbe5dd4dae9"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-02T04:07:18.635Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "640021093887a2496b1d2125"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-02T04:07:35.185Z",
+  "status": "END",
+  "notes": "Int",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "6400210b22c82bb3c73f50f4"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-02T04:07:36.616Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "6400211269dd5fbe5dd4daea"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-02T04:07:43.826Z",
+  "status": "END",
+  "notes": "Ext",
+  "type": "External"
+},{
+  "_id": {
+    "$oid": "6400211322c82bb3c73f50f5"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-02T04:07:44.858Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "640021198a0ff769e71953f6"
+  },
+  "eventId": "63ffd4132000a11dd87678ad",
+  "dateTime": "2023-03-02T04:07:51.286Z",
+  "status": "END",
+  "notes": "Cp",
+  "type": "Carpark"
+},{
+  "_id": {
+    "$oid": "6407ad8ec7329567b76ca665"
+  },
+  "eventId": "6407ad86c7329567b76ca664",
+  "dateTime": "2023-03-07T21:33:00.689Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+},{
+  "_id": {
+    "$oid": "6407adbd3d25b1297ff91009"
+  },
+  "eventId": "6407ad86c7329567b76ca664",
+  "dateTime": "2023-03-07T21:33:46.980Z",
+  "status": "END",
+  "notes": "Everything is ok",
+  "type": "Internal"
+},{
+  "_id": {
+    "$oid": "6407bff25f55ebe041362d60"
+  },
+  "eventId": "6407bf8a5835d45da7041694",
+  "dateTime": "2023-03-07T22:51:28.189Z",
+  "status": "START",
+  "notes": "",
+  "type": ""
+}]

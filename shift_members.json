@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "638952a8da145b4a7713b464"
+  },
+  "user": {
+    "email": "johndoe@gmail.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "role": "guard",
+    "licenseNumber": "12344455",
+    "licenseExpireDate": "2022-12-21",
+    "profilePicture": "https://i.ibb.co/Rz23s5q/pexels-francesco-ungaro-1671324.jpg",
+    "fullName": "John Doe"
+  },
+  "shift": {
+    "_id": {
+      "$oid": "63861ac35b2a5d76f77e3471"
+    },
+    "timeIn": "07:43",
+    "timeOut": "17:43",
+    "site": {
+      "_id": {
+        "$oid": "635ed4ce07bb11e4edc71816"
+      },
+      "siteName": "Sample Site 1"
+    },
+    "hTimeIn": "11:43",
+    "hTimeOut": "17:43"
+  }
+}]

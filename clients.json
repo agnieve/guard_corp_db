@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "63880dccf0d19558f8d41a40"
+  },
+  "email": "ag@castledigital.com.au",
+  "address": "2807 Gold Coast Hwy, Surfers Paradise, QLD 4217",
+  "mobilePhone": "0499 999 999",
+  "name": "Crowne Plaza",
+  "contactName": "Test AG Contact Name"
+},{
+  "_id": {
+    "$oid": "63fc5b564d9bf607cc4de1a1"
+  },
+  "email": "chevron.leasing@meriton.com.au",
+  "address": "811 South Dowling Street, Zetland",
+  "mobilePhone": "0417640657",
+  "name": "Meriton - Chevron",
+  "contactName": "Deanne Vrondas"
+},{
+  "_id": {
+    "$oid": "64005748fc9ac52a4f82223c"
+  },
+  "email": "davidi@meriton.com.au",
+  "address": "",
+  "mobilePhone": "0424149708",
+  "name": "Meriton - Tiffany Plaza",
+  "contactName": "Dave Irvine"
+}]

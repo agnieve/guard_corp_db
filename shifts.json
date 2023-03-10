@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63bb25d360237b5ec488a59c"
+  },
+  "timeIn": "06:21",
+  "timeOut": "10:21",
+  "site": {
+    "_id": {
+      "$oid": "638962bd57d43b2ee92b4a52"
+    },
+    "siteName": "Corporate Office (HQ)"
+  },
+  "client": {
+    "_id": {
+      "$oid": "63880dccf0d19558f8d41a40"
+    },
+    "email": "ag@castledigital.com.au",
+    "address": "2807 Gold Coast Hwy, Surfers Paradise, QLD 4217",
+    "mobilePhone": "0499 999 999",
+    "name": "Crowne Plaza",
+    "contactName": "Test AG Contact Name"
+  },
+  "hTimeIn": "08:21",
+  "hTimeOut": "00:21",
+  "recursion": {
+    "repeatEvery": "weeks",
+    "repeatEveryCount": "1",
+    "days": [
+      "m",
+      "t",
+      "w",
+      "th",
+      "f",
+      "s",
+      "su"
+    ],
+    "ends": "Never",
+    "startDate": "2023-01-08T20:21:36.635Z",
+    "endDate": "2023-05-28"
+  }
+}]

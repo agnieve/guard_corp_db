@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "638962bd57d43b2ee92b4a52"
+  },
+  "siteName": "Corporate Office (HQ)",
+  "address": "976 Anzac Parade, Maroubra NSW 2035, Australia",
+  "clientId": "63880dccf0d19558f8d41a40",
+  "latitude": -33.9456276,
+  "longitude": 151.2408293,
+  "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+},{
+  "_id": {
+    "$oid": "63fc5b7e4d9bf607cc4de1a2"
+  },
+  "siteName": "Chevron",
+  "address": "811 S Dowling St, Zetland NSW 2017, Australia",
+  "clientId": "63fc5b564d9bf607cc4de1a1",
+  "latitude": -33.9015364,
+  "longitude": 151.2145593,
+  "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+},{
+  "_id": {
+    "$oid": "64001dce9b883200ee3aad26"
+  },
+  "siteName": "Sovereign ",
+  "clientId": "63fc5b564d9bf607cc4de1a1",
+  "latitude": -33.8978686,
+  "longitude": 151.2141161,
+  "complianceInformation": "Check all doors are locked and secure upon arrival at site.",
+  "address": "26 Danks St, Waterloo NSW 2017, Australia"
+},{
+  "_id": {
+    "$oid": "640057801ea1d8388262ed33"
+  },
+  "siteName": "Tiffany Plaza",
+  "clientId": "64005748fc9ac52a4f82223c",
+  "latitude": -33.8918366,
+  "longitude": 151.2482575,
+  "complianceInformation": "Check all doors are locked and secure upon arrival at site.",
+  "address": "422 Oxford St, Bondi Junction NSW 2022, Australia"
+}]

@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "63c76351b170580aec76b0a4"
+  },
+  "user": {
+    "_id": "635ec084e69a54d128d86cb3",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$12$O..6lhJbM9UHjPIi97t0/ebkNCKxOh9lhOWlHMB5lFeZ6n5OxiIwW",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "company": "",
+    "role": "guard",
+    "fullName": "John Doe",
+    "licenseNumber": "12344455",
+    "profilePicture": "https://i.ibb.co/Rz23s5q/pexels-francesco-ungaro-1671324.jpg",
+    "licenseExpireDate": "2022-12-21",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlTnVtYmVyIjoiMTIzNDQ0NTUiLCJpYXQiOjE2NzQwMTE0MTB9.VZvJh3e_frBzO5hscpHv_ZsgENvkFDxWYQxPzs5v6do"
+  },
+  "picture": null,
+  "site": {
+    "_id": "638962bd57d43b2ee92b4a52",
+    "siteName": "Corporate Office (HQ)",
+    "address": "976 Anzac Parade, Maroubra NSW, Australia",
+    "clientId": "63880dccf0d19558f8d41a40",
+    "latitude": -33.9456285,
+    "longitude": 151.2408231,
+    "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+  },
+  "start": "2023-01-18T03:11:00.012Z",
+  "end": "2023-03-01T22:37:06.337Z",
+  "reason": "Test "
+},{
+  "_id": {
+    "$oid": "63ffd4132000a11dd87678ad"
+  },
+  "user": {
+    "_id": "635ec084e69a54d128d86cb3",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$12$O..6lhJbM9UHjPIi97t0/ebkNCKxOh9lhOWlHMB5lFeZ6n5OxiIwW",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "company": "",
+    "role": "guard",
+    "fullName": "John Doe",
+    "licenseNumber": "12344455",
+    "profilePicture": "https://i.ibb.co/Rz23s5q/pexels-francesco-ungaro-1671324.jpg",
+    "licenseExpireDate": "2022-12-21",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlTnVtYmVyIjoiMTIzNDQ0NTUiLCJpYXQiOjE2Nzc3MTAyNDJ9.siL2F58f9kivvlJpt2_Dhkgs1UZDcQ9DEuu-PWw3rBo"
+  },
+  "picture": null,
+  "site": {
+    "_id": "638962bd57d43b2ee92b4a52",
+    "siteName": "Corporate Office (HQ)",
+    "address": "976 Anzac Parade, Maroubra NSW, Australia",
+    "clientId": "63880dccf0d19558f8d41a40",
+    "latitude": -33.9456285,
+    "longitude": 151.2408231,
+    "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+  },
+  "start": "2023-03-01T22:39:07.605Z",
+  "end": "2023-03-02T04:08:42.261Z",
+  "reason": "Test"
+},{
+  "_id": {
+    "$oid": "64000ce7ce20c435ace24d80"
+  },
+  "user": {
+    "_id": "635ec084e69a54d128d86cb3",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$12$O..6lhJbM9UHjPIi97t0/ebkNCKxOh9lhOWlHMB5lFeZ6n5OxiIwW",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "company": "",
+    "role": "guard",
+    "fullName": "John Doe",
+    "licenseNumber": "123456",
+    "profilePicture": "https://i.ibb.co/WVvvgLY/Apple-Laptop.png",
+    "licenseExpireDate": "2022-12-21",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlTnVtYmVyIjoiMTIzNDU2IiwiaWF0IjoxNjc3NzI0ODQ0fQ.IONsKaNiAfBCMFDnZ4hhDdY6S1sr-C3163inJItg00U"
+  },
+  "picture": null,
+  "site": {
+    "_id": "638962bd57d43b2ee92b4a52",
+    "siteName": "Corporate Office (HQ)",
+    "address": "976 Anzac Parade, Maroubra NSW, Australia",
+    "clientId": "63880dccf0d19558f8d41a40",
+    "latitude": -33.9456285,
+    "longitude": 151.2408231,
+    "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+  },
+  "start": "2023-03-02T02:41:37.783Z",
+  "end": "2023-03-02T02:45:57.299Z",
+  "reason": "Test logout\n"
+},{
+  "_id": {
+    "$oid": "64000f6bdbe558b277020869"
+  },
+  "user": {
+    "_id": "635ec084e69a54d128d86cb3",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$12$O..6lhJbM9UHjPIi97t0/ebkNCKxOh9lhOWlHMB5lFeZ6n5OxiIwW",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "company": "",
+    "role": "guard",
+    "fullName": "John Doe",
+    "licenseNumber": "123456",
+    "profilePicture": "https://i.ibb.co/WVvvgLY/Apple-Laptop.png",
+    "licenseExpireDate": "2022-12-21",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlTnVtYmVyIjoiMTIzNDU2IiwiaWF0IjoxNjc3NzI1NTIwfQ.ck9jMYOrc0OhVGnyOToSHqYDnLl1T4CW7K3tEMciOxc"
+  },
+  "picture": null,
+  "site": {
+    "_id": "638962bd57d43b2ee92b4a52",
+    "siteName": "Corporate Office (HQ)",
+    "address": "976 Anzac Parade, Maroubra NSW, Australia",
+    "clientId": "63880dccf0d19558f8d41a40",
+    "latitude": -33.9456285,
+    "longitude": 151.2408231,
+    "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+  },
+  "start": "2023-03-02T02:52:20.990Z",
+  "end": "2023-03-02T02:53:43.792Z",
+  "reason": "Left early "
+},{
+  "_id": {
+    "$oid": "6407ad86c7329567b76ca664"
+  },
+  "user": {
+    "_id": "635ec084e69a54d128d86cb3",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$12$O..6lhJbM9UHjPIi97t0/ebkNCKxOh9lhOWlHMB5lFeZ6n5OxiIwW",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "company": "",
+    "role": "guard",
+    "fullName": "John Doe",
+    "licenseNumber": "123456",
+    "profilePicture": "https://i.ibb.co/WVvvgLY/Apple-Laptop.png",
+    "licenseExpireDate": "2022-12-21",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlTnVtYmVyIjoiMTIzNDU2IiwiaWF0IjoxNjc4MjI0Mzc4fQ.KLDXn_gs9yrU8ay6tCTj22aP0J84NV2aqdX5dKlxi5w"
+  },
+  "picture": {
+    "data": {
+      "id": "GCbJBTR",
+      "title": "e0103007c89f",
+      "url_viewer": "https://ibb.co/GCbJBTR",
+      "url": "https://i.ibb.co/MP3hW67/e0103007c89f.jpg",
+      "display_url": "https://i.ibb.co/c27vMLQ/e0103007c89f.jpg",
+      "width": 3024,
+      "height": 4032,
+      "size": 4278027,
+      "time": 1678224764,
+      "expiration": 600,
+      "image": {
+        "filename": "e0103007c89f.jpg",
+        "name": "e0103007c89f",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/MP3hW67/e0103007c89f.jpg"
+      },
+      "thumb": {
+        "filename": "e0103007c89f.jpg",
+        "name": "e0103007c89f",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/GCbJBTR/e0103007c89f.jpg"
+      },
+      "medium": {
+        "filename": "e0103007c89f.jpg",
+        "name": "e0103007c89f",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/c27vMLQ/e0103007c89f.jpg"
+      },
+      "delete_url": "https://ibb.co/GCbJBTR/c359ad8e936c7c98b3c0ac30529f76e4"
+    },
+    "success": true,
+    "status": 200
+  },
+  "site": {
+    "_id": "638962bd57d43b2ee92b4a52",
+    "siteName": "Corporate Office (HQ)",
+    "address": "976 Anzac Parade, Maroubra NSW 2035, Australia",
+    "clientId": "63880dccf0d19558f8d41a40",
+    "latitude": -33.9456276,
+    "longitude": 151.2408293,
+    "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+  },
+  "start": "2023-03-07T21:32:49.824Z",
+  "end": null
+},{
+  "_id": {
+    "$oid": "6407bf8a5835d45da7041694"
+  },
+  "user": {
+    "_id": "635ec084e69a54d128d86cb3",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$12$O..6lhJbM9UHjPIi97t0/ebkNCKxOh9lhOWlHMB5lFeZ6n5OxiIwW",
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobilePhone": "1234",
+    "company": "",
+    "role": "guard",
+    "fullName": "John Doe",
+    "licenseNumber": "123456",
+    "profilePicture": "https://i.ibb.co/WVvvgLY/Apple-Laptop.png",
+    "licenseExpireDate": "2022-12-21",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlTnVtYmVyIjoiMTIzNDU2IiwiaWF0IjoxNjc4MjI4MTQzfQ.hHvR5-ZrInXjRWkOx5ybRhvBncL5ygAP4euowJk-sgE"
+  },
+  "picture": {
+    "data": {
+      "id": "2PSr5wv",
+      "title": "31a160dd89d1",
+      "url_viewer": "https://ibb.co/2PSr5wv",
+      "url": "https://i.ibb.co/0ZKLQkC/31a160dd89d1.jpg",
+      "display_url": "https://i.ibb.co/zbFgN1X/31a160dd89d1.jpg",
+      "width": 3024,
+      "height": 4032,
+      "size": 3186950,
+      "time": 1678229072,
+      "expiration": 600,
+      "image": {
+        "filename": "31a160dd89d1.jpg",
+        "name": "31a160dd89d1",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/0ZKLQkC/31a160dd89d1.jpg"
+      },
+      "thumb": {
+        "filename": "31a160dd89d1.jpg",
+        "name": "31a160dd89d1",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/2PSr5wv/31a160dd89d1.jpg"
+      },
+      "medium": {
+        "filename": "31a160dd89d1.jpg",
+        "name": "31a160dd89d1",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/zbFgN1X/31a160dd89d1.jpg"
+      },
+      "delete_url": "https://ibb.co/2PSr5wv/05882e11ff9380df61b70142234803d2"
+    },
+    "success": true,
+    "status": 200
+  },
+  "site": {
+    "_id": "638962bd57d43b2ee92b4a52",
+    "siteName": "Corporate Office (HQ)",
+    "address": "976 Anzac Parade, Maroubra NSW 2035, Australia",
+    "clientId": "63880dccf0d19558f8d41a40",
+    "latitude": -33.9456276,
+    "longitude": 151.2408293,
+    "complianceInformation": "Check all doors are locked and secure upon arrival at site."
+  },
+  "start": "2023-03-07T22:49:41.593Z",
+  "end": null
+}]
